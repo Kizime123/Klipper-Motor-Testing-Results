@@ -11,6 +11,8 @@ OMC [17HE19-2004S](https://www.omc-stepperonline.com/e-series-nema-17-bipolar-55
 
 LEADSHINE [42CM06](https://www.leadshine.com/product-detail/42CM06.html)
 
+Wantai [42BYGHM810](https://archive.fabacademy.org/2017/fablabverket/students/100/web/assignments/week11/3302_0_Datasheet.pdf)
+
 Testing methodology:
 
 I'll be running: https://github.com/MRX8024/chopper-resonance-tuner/blob/main/wiki/chopper_tuning_guide_english.md 
