@@ -6,6 +6,7 @@ LDO [48-2804AH](https://northprint3d.ca/product/ldo-42sth48-2804-2-8a-super-powe
 LDO [48-2504AH](https://www.3dlabtech.ca/product/ldo-nema17-motor-ldo-42sth48-2504ah/)
 
 LDO [48-2004MAH](https://www.3dlabtech.ca/product/ldo-nema17-motor-ldo-42sth48-2004mah/)
+
 LDO [60-3004AC](https://peedee3d.com/collections/motion/products/kraken-by-omranello-1-8-ldo-42sth60-3004acs40_)
 
 OMC [17HE19-2004S](https://www.omc-stepperonline.com/e-series-nema-17-bipolar-55ncm-77-88oz-in-2a-42x48mm-4-wires-w-1m-cable-connector-17he19-2004s)
